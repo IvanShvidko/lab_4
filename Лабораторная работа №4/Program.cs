@@ -10,6 +10,7 @@ namespace Лабораторная_работа__4
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Арбуз");
         }
     }
 }
